@@ -1,2 +1,1 @@
-# Github_REST_API_v3
-Github_REST_API_v3
+https://developer.github.com/
